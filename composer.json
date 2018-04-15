@@ -1,5 +1,5 @@
 {
-  "name": "brainfab/laravel-form",
+  "name": "mathcals/laravel-form",
   "description": "Use Symfony Form component with Laravel framework",
   "keywords": ["framework", "laravel", "symfony", "form"],
   "authors": [
